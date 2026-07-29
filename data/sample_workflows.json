@@ -1,0 +1,5 @@
+﻿[
+ {"title":"Synthetic support escalation","request_description":"Automate support ticket escalation for a demo customer-impact incident with manager approval","requester":"Demo Operations User","business_area":"Support","priority":"high"},
+ {"title":"Synthetic AI review","request_description":"Review AI system risk, model decision oversight, personal data sensitivity and compliance before approval","requester":"Demo Product Owner","business_area":"AI Governance","priority":"high"},
+ {"title":"Synthetic onboarding","request_description":"Route onboarding tasks for a fictional new starter to HR and IT access teams","requester":"Demo Hiring Manager","business_area":"People Operations","priority":"medium"}
+]

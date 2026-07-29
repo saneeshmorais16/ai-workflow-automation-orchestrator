@@ -1,0 +1,9 @@
+﻿[
+ {"name":"support triage","request":"Automate support ticket escalation for customer impact","expected_type":"Support Triage","expected_risk":"Medium","expected_route":"Support Team","approval_required":true},
+ {"name":"report approval","request":"Create a report approval and manager sign-off workflow","expected_type":"Report Approval","expected_risk":"Low","expected_route":"Manager Review","approval_required":true},
+ {"name":"refund review","request":"Handle customer refund payment requests safely","expected_type":"Refund Review","expected_risk":"High","expected_route":"Finance Team","approval_required":true},
+ {"name":"HR onboarding","request":"Route employee onboarding tasks to HR and IT","expected_type":"HR Onboarding","expected_risk":"Medium","expected_route":"HR Team","approval_required":true},
+ {"name":"IT access","request":"Review account access permission request","expected_type":"IT Access Request","expected_risk":"Medium","expected_route":"IT Team","approval_required":true},
+ {"name":"AI governance","request":"Review AI system model decision and personal data compliance risk","expected_type":"AI Risk Review","expected_risk":"Critical","expected_route":"Manager Review","approval_required":true},
+ {"name":"data quality","request":"Create a data quality validation and dataset review","expected_type":"Data Quality Review","expected_risk":"Low","expected_route":"Data Team","approval_required":true}
+]
