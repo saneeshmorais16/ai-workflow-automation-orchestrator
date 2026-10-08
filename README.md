@@ -125,7 +125,7 @@ pip install -r requirements.txt
 python run.py
 ```
 
-Open `http://127.0.0.1:8000`; interactive API documentation is at `/docs`. Alternatively run `uvicorn app.main:app --reload`.
+Open `http://127.0.0.1:8000`; interactive API documentation is at `/docs`. Use a different local port with `PORT=8001 python run.py` if another demo is already running. Alternatively run `uvicorn app.main:app --reload`.
 
 ## Tests
 
